@@ -1,0 +1,1887 @@
+{
+  "data": {
+    "message": "data retrieve successfully",
+    "header": {
+      "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2022/03/21/622e4b36d28fe-384x384.png",
+      "logoAltText": "Swiggy",
+      "navItems": [
+        {
+          "name": "Swiggy Corporates",
+          "type": "link",
+          "action": "/about"
+        },
+        {
+          "name": "Search",
+          "type": "link",
+          "action": "/about"
+        },
+        {
+          "name": "Offers",
+          "type": "link",
+          "action": "/about"
+        },
+        {
+          "name": "Help",
+          "type": "link",
+          "action": "/about"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "header": {
+          "title": "What's on your mind?",
+          "headerStyling": {
+            "padding": {
+              "left": 16,
+              "top": 16,
+              "bottom": 4
+            }
+          }
+        },
+        "layout": {
+          "rows": 1,
+          "columns": 10,
+          "horizontalScrollEnabled": true,
+          "itemSpacing": 24,
+          "containerStyle": {
+            "containerPadding": {
+              "left": 8,
+              "top": 8,
+              "right": 12,
+              "bottom": 4
+            }
+          }
+        },
+        "imageGridCards": [
+          {
+            "id": "750234",
+            "imageId": "v1674029855/PC_Creative%20refresh/3D_bau/banners_new/Poori.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80377?collection_id=80377&tags=layout_BAU_Contextual%2Cpoori&type=rcv2",
+              "text": "Poori",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurant curated for poori",
+              "altTextCta": "open"
+            },
+            "entityId": "80377",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750131",
+            "imageId": "v1674029850/PC_Creative%20refresh/3D_bau/banners_new/Dosa.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
+              "text": "Dosa",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for dosa",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=80424&tags=layout_CCS_Dosa",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750201",
+            "imageId": "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Paratha.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
+              "text": "Paratha",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for paratha",
+              "altTextCta": "open"
+            },
+            "entityId": "80475",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750643",
+            "imageId": "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Idli.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80440?collection_id=80440&tags=layout_CCS_Idli&type=rcv2",
+              "text": "Idli",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for idly",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=80440&tags=layout_CCS_Idli",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750591",
+            "imageId": "v1675667625/PC_Creative%20refresh/Biryani_2.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+              "text": "Biryani",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for biryani",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=83639&tags=layout_CCS_Biryani&search_context=biryani",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "749876",
+            "imageId": "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Chole_Bature.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80382?collection_id=80382&tags=layout_CCS_CholeBhature&type=rcv2",
+              "text": "Chole Bhature",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurant curated for chhole bhatoore",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=80382&tags=layout_CCS_CholeBhature",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750216",
+            "imageId": "v1674029854/PC_Creative%20refresh/3D_bau/banners_new/Pav_Bhaji.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80362?collection_id=80362&tags=layout_PavBhaji_Contextual&type=rcv2",
+              "text": "Pav Bhaji",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurant curated for pav bhaji",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=80362&tags=layout_PavBhaji_Contextual",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "749868",
+            "imageId": "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Cakes.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/83655?collection_id=83655&tags=layout_CCS_Cake&type=rcv2",
+              "text": "Cakes",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurant curated for cake",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=83655&tags=layout_CCS_Cake",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750571",
+            "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Pure_Veg.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80435?collection_id=80435&tags=layout_CCS_PureVeg&type=rcv2",
+              "text": "Pure Veg",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for veg",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=80435&tags=layout_CCS_PureVeg",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750598",
+            "imageId": "v1674029846/PC_Creative%20refresh/3D_bau/banners_new/Coffee.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/83907?collection_id=83907&tags=layout_CCS_Coffee&type=rcv2",
+              "text": "Coffee",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for coffee",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=83907&tags=layout_CCS_Coffee",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "749786",
+            "imageId": "v1674029849/PC_Creative%20refresh/3D_bau/banners_new/Omelette.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80467?collection_id=80467&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
+              "text": "Omelette",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurant curated for omelette",
+              "altTextCta": "open"
+            },
+            "entityId": "80467",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "749760",
+            "imageId": "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Khichdi.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80455?collection_id=80455&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
+              "text": "Khichdi",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for khichdi",
+              "altTextCta": "open"
+            },
+            "entityId": "80455",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750232",
+            "imageId": "v1674029847/PC_Creative%20refresh/3D_bau/banners_new/Pongal.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80375?collection_id=80375&tags=layout_BAU_Contextual%2Cpongal&type=rcv2",
+              "text": "Pongal",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for pongal",
+              "altTextCta": "open"
+            },
+            "entityId": "80375",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750225",
+            "imageId": "v1674029859/PC_Creative%20refresh/3D_bau/banners_new/Salad.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80394?collection_id=80394&tags=layout_CCS_Salad&type=rcv2",
+              "text": "Salad",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurant curated for salad",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=80394&tags=layout_CCS_Salad",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750561",
+            "imageId": "v1674029842/PC_Creative%20refresh/3D_bau/banners_new/Vada.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
+              "text": "Vada",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for vada",
+              "altTextCta": "open"
+            },
+            "entityId": "80425",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750589",
+            "imageId": "v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Burger.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/83637?collection_id=83637&search_context=burger&tags=layout_CCS_Burger&type=rcv2",
+              "text": "Burgers",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for burger",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=83637&tags=layout_CCS_Burger&search_context=burger",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750641",
+            "imageId": "v1674029851/PC_Creative%20refresh/3D_bau/banners_new/Jalebi.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80442?collection_id=80442&tags=layout_BAU_Contextual%2Cjalebi&type=rcv2",
+              "text": "Jalebi",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurant curated for jalebi",
+              "altTextCta": "open"
+            },
+            "entityId": "80442",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750604",
+            "imageId": "rng/md/carousel/production/cbb85a3c1684891105294d11f8359996",
+            "action": {
+              "link": "https://www.swiggy.com/collections/80493?collection_id=80493&tags=layout_CCS_Tea&type=rcv2",
+              "text": "Tea",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for tea",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=80493&tags=layout_CCS_Tea",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750579",
+            "imageId": "v1674029856/PC_Creative%20refresh/3D_bau/banners_new/Pizza.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/83631?collection_id=83631&search_context=pizza&tags=layout_CCS_Pizza&type=rcv2",
+              "text": "Pizzas",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for pizza",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=83631&tags=layout_CCS_Pizza&search_context=pizza",
+            "frequencyCapping": {}
+          },
+          {
+            "id": "750222",
+            "imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rolls.png",
+            "action": {
+              "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+              "text": "Rolls",
+              "type": "WEBLINK"
+            },
+            "entityType": "BANNER",
+            "accessibility": {
+              "altText": "restaurants curated for roll",
+              "altTextCta": "open"
+            },
+            "entityId": "swiggy://collectionV2?collection_id=83669&tags=layout_CCS_Rolls",
+            "frequencyCapping": {}
+          }
+        ]
+      },
+      {
+        "header": {
+          "title": "Top restaurant chains in Kolkata",
+          "action": {},
+          "headerStyling": {
+            "padding": {
+              "left": 16,
+              "top": 28,
+              "bottom": 18
+            }
+          }
+        },
+        "layout": {
+          "rows": 1,
+          "columns": 20,
+          "horizontalScrollEnabled": true,
+          "itemSpacing": 32,
+          "widgetPadding": {},
+          "containerStyle": {
+            "containerPadding": {
+              "left": 16,
+              "right": 12,
+              "bottom": 12
+            }
+          },
+          "scrollBar": {
+            "scrollThumbColor": "#E46D47",
+            "scrollTrackColor": "#02060C",
+            "width": 54,
+            "height": 4,
+            "scrollStyling": {
+              "padding": {
+                "top": 6,
+                "bottom": 24
+              }
+            }
+          },
+          "widgetTheme": {
+            "defaultMode": {
+              "backgroundColour": "#1B3028",
+              "theme": "THEME_TYPE_DARK"
+            },
+            "darkMode": {
+              "backgroundColour": "#1B3028",
+              "theme": "THEME_TYPE_DARK"
+            }
+          }
+        },
+
+        "gridElements": {
+          "restaurants": [
+            {
+              "info": {
+                "id": "19521",
+                "name": "Tea Junction",
+                "cloudinaryImageId": "77d2fffe27cd59af5045a102d08af522",
+                "locality": "New Market",
+                "areaName": "New Market Area",
+                "costForTwo": "₹150 for two",
+                "cuisines": ["Beverages", "Snacks", "Desserts"],
+                "avgRating": 4.3,
+                "parentId": "4311",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "1K+",
+                "sla": {
+                  "deliveryTime": 36,
+                  "lastMileTravel": 2.3,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "35-40 mins",
+                  "lastMileTravelString": "2.3 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 21:45:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "20% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/tea-junction-new-market-new-market-area-kolkata-19521",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "356638",
+                "name": "Delights by INOX",
+                "cloudinaryImageId": "b857fcf611707fedd3773eb02688f925",
+                "locality": "5 Jawaharlal Nehru Road",
+                "areaName": "Taltala",
+                "costForTwo": "₹400 for two",
+                "cuisines": ["Snacks"],
+                "avgRating": 4.2,
+                "veg": true,
+                "parentId": "385095",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "50+",
+                "sla": {
+                  "deliveryTime": 33,
+                  "lastMileTravel": 2.1,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "30-35 mins",
+                  "lastMileTravelString": "2.1 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 01:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/delights-by-inox-5-jawaharlal-nehru-road-taltala-kolkata-356638",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "361755",
+                "name": "Mama Mia! - Italian Ice Creams & Cakes",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/18/5bed1e9b-d9bb-46e3-9737-a74109b5a717_361755.JPG",
+                "locality": "Central Kolkata",
+                "areaName": "Taltala",
+                "costForTwo": "₹250 for two",
+                "cuisines": [
+                  "Ice Cream",
+                  "Desserts",
+                  "Bakery",
+                  "Ice Cream Cakes"
+                ],
+                "avgRating": 4.7,
+                "parentId": "471728",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "1K+",
+                "sla": {
+                  "deliveryTime": 29,
+                  "lastMileTravel": 3,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "25-30 mins",
+                  "lastMileTravelString": "3.0 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 02:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "₹75 OFF",
+                  "subHeader": "ABOVE ₹199",
+                  "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/mama-mia-italian-ice-creams-and-cakes-central-taltala-kolkata-361755",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "407661",
+                "name": "Burger King",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/cab874d5-c7ed-4122-9eb9-935992f4bcee_407661.JPG",
+                "locality": "New Market",
+                "areaName": "Esplanade",
+                "costForTwo": "₹350 for two",
+                "cuisines": ["Burgers", "American"],
+                "avgRating": 4.2,
+                "parentId": "166",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "10K+",
+                "sla": {
+                  "deliveryTime": 36,
+                  "lastMileTravel": 2.5,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "35-40 mins",
+                  "lastMileTravelString": "2.5 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 06:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "Rxawards/_CATEGORY-Burger.png",
+                      "description": "Delivery!"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-Burger.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/burger-king-new-market-esplanade-kolkata-407661",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "3638",
+                "name": "Gupta Brothers -Ballygunge",
+                "cloudinaryImageId": "s6osrxqumlqssg6wvu65",
+                "locality": "Elgin Road",
+                "areaName": "Elgin Road",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                  "Snacks",
+                  "Desserts",
+                  "Indian",
+                  "Street food",
+                  "North indian",
+                  "South Indian"
+                ],
+                "avgRating": 4.4,
+                "parentId": "358878",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "10K+",
+                "sla": {
+                  "deliveryTime": 48,
+                  "lastMileTravel": 6.1,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "45-50 mins",
+                  "lastMileTravelString": "6.1 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:30:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/gupta-brothers-ballygunge-elgin-road-kolkata-3638",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "18518",
+                "name": "Wow! Momo",
+                "cloudinaryImageId": "64fd45fd9f44c1737bc446e470bed666",
+                "locality": "Girish Park",
+                "areaName": "Girish Park",
+                "costForTwo": "₹300 for two",
+                "cuisines": [
+                  "Tibetan",
+                  "Healthy Food",
+                  "Asian",
+                  "Chinese",
+                  "Snacks",
+                  "Continental",
+                  "Desserts",
+                  "Beverages"
+                ],
+                "avgRating": 4.4,
+                "parentId": "1776",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "5K+",
+                "sla": {
+                  "deliveryTime": 32,
+                  "lastMileTravel": 1.5,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "30-35 mins",
+                  "lastMileTravelString": "1.5 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 02:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "Rxawards/_CATEGORY-Chinese.png",
+                      "description": "Delivery!"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-Chinese.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/wow-momo-girish-park-kolkata-18518",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "8912",
+                "name": "Subway",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/36c15da5-700d-46e0-95dd-1414acb77a96_8912.JPG",
+                "locality": "Park Street",
+                "areaName": "Park Street",
+                "costForTwo": "₹350 for two",
+                "cuisines": [
+                  "Healthy Food",
+                  "Salads",
+                  "Snacks",
+                  "Desserts",
+                  "Beverages"
+                ],
+                "avgRating": 4.2,
+                "parentId": "2",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "10K+",
+                "sla": {
+                  "deliveryTime": 44,
+                  "lastMileTravel": 3,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "3.0 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 07:59:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/subway-park-street-kolkata-8912",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "388064",
+                "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/10fcf66b-a80a-47b4-a6bc-438ba9d7daf5_388064.JPG",
+                "locality": "BOLAI DUTTA STREET",
+                "areaName": "Esplanade",
+                "costForTwo": "₹300 for two",
+                "cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+                "avgRating": 4.7,
+                "veg": true,
+                "parentId": "582",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "1K+",
+                "sla": {
+                  "deliveryTime": 24,
+                  "lastMileTravel": 0.6,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "20-25 mins",
+                  "lastMileTravelString": "0.6 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:30:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "Rxawards/_CATEGORY-Ice-creams.png",
+                      "description": "Delivery!"
+                    },
+                    {
+                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                      "description": "pureveg"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-Ice-creams.png"
+                          }
+                        },
+                        {
+                          "attributes": {
+                            "description": "pureveg",
+                            "imageId": "v1695133679/badges/Pure_Veg111.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/kwality-walls-frozen-dessert-and-ice-cream-shop-bolai-dutta-street-esplanade-kolkata-388064",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "33449",
+                "name": "Mio Amore - The Cake Shop",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/11/7fd36204-cf9c-4c48-935e-d13a27daf6cb_33449.jpg",
+                "locality": "Sangam Nagar",
+                "areaName": "Entally",
+                "costForTwo": "₹250 for two",
+                "cuisines": ["Bakery", "Desserts", "Snacks", "Confectionery"],
+                "avgRating": 4.5,
+                "parentId": "292958",
+                "avgRatingString": "4.5",
+                "totalRatingsString": "10K+",
+                "sla": {
+                  "deliveryTime": 36,
+                  "lastMileTravel": 3,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "35-40 mins",
+                  "lastMileTravelString": "3.0 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "Rxawards/_CATEGORY-Desserts.png",
+                      "description": "Delivery!"
+                    },
+                    {
+                      "imageId": "Rxawards/_CATEGORY-Snacks.png",
+                      "description": "Delivery!"
+                    }
+                  ],
+                  "textExtendedBadges": [
+                    {
+                      "iconId": "v1705582451/Ratnesh_Badges/Perfect_cake.png",
+                      "shortDescription": "Perfect cake delivery",
+                      "fontColor": "#7E808C"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "aggregatedDiscountInfoV2": {},
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-Desserts.png"
+                          }
+                        },
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-Snacks.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "",
+                            "fontColor": "#7E808C",
+                            "iconId": "v1705582451/Ratnesh_Badges/Perfect_cake.png",
+                            "shortDescription": "Perfect cake delivery"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/mio-amore-the-cake-shop-sangam-nagar-entally-kolkata-33449",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "224455",
+                "name": "Sweet Truth - Cake and Desserts",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/27/57dd6a8c-1f5c-4551-9a77-4fa5a3b2aec7_224455.JPG",
+                "locality": "HOWRAH",
+                "areaName": "Mali Panchghara",
+                "costForTwo": "₹450 for two",
+                "cuisines": ["Snacks", "Bakery", "Desserts", "Beverages"],
+                "avgRating": 4.4,
+                "parentId": "4444",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "1K+",
+                "sla": {
+                  "deliveryTime": 48,
+                  "lastMileTravel": 5,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "45-50 mins",
+                  "lastMileTravelString": "5.0 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 23:59:00",
+                  "opened": true
+                },
+                "badges": {
+                  "textExtendedBadges": [
+                    {
+                      "iconId": "v1705582451/Ratnesh_Badges/Perfect_cake.png",
+                      "shortDescription": "Perfect cake delivery",
+                      "fontColor": "#7E808C"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "",
+                            "fontColor": "#7E808C",
+                            "iconId": "v1705582451/Ratnesh_Badges/Perfect_cake.png",
+                            "shortDescription": "Perfect cake delivery"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/sweet-truth-cake-and-desserts-howrah-mali-panchghara-kolkata-224455",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "577515",
+                "name": "Barbeque Nation",
+                "cloudinaryImageId": "qs937h36a2dgsgrbjwps",
+                "locality": "New Market",
+                "areaName": "New Market",
+                "costForTwo": "₹600 for two",
+                "cuisines": [
+                  "Barbecue",
+                  "Biryani",
+                  "Kebabs",
+                  "Mughlai",
+                  "Desserts"
+                ],
+                "avgRating": 4.2,
+                "parentId": "2438",
+                "avgRatingString": "4.2",
+                "totalRatingsString": "100+",
+                "sla": {
+                  "deliveryTime": 46,
+                  "lastMileTravel": 2.5,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "45-50 mins",
+                  "lastMileTravelString": "2.5 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 00:30:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                      "description": "Delivery!"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/barbeque-nation-new-market-kolkata-577515",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "18107",
+                "name": "Bhojohori Manna",
+                "cloudinaryImageId": "998b9bfa20e65aeb41fb893624609233",
+                "locality": "Esplanade",
+                "areaName": "Central Kolkata",
+                "costForTwo": "₹900 for two",
+                "cuisines": ["Bengali", "Thalis", "North Indian", "Desserts"],
+                "avgRating": 4.1,
+                "parentId": "113",
+                "avgRatingString": "4.1",
+                "totalRatingsString": "1K+",
+                "sla": {
+                  "deliveryTime": 43,
+                  "lastMileTravel": 2.2,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "2.2 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:00:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "10% OFF",
+                  "subHeader": "UPTO ₹40"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/bhojohori-manna-esplanade-central-kolkata-kolkata-18107",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "809673",
+                "name": "Domino's Pizza",
+                "cloudinaryImageId": "d0450ce1a6ba19ea60cd724471ed54a8",
+                "locality": "Gandhi Road",
+                "areaName": "Central Avenue",
+                "costForTwo": "₹400 for two",
+                "cuisines": ["Pizzas", "Italian", "Pastas", "Desserts"],
+                "avgRating": 4.3,
+                "parentId": "2456",
+                "avgRatingString": "4.3",
+                "totalRatingsString": "100+",
+                "sla": {
+                  "deliveryTime": 25,
+                  "lastMileTravel": 0.9,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "20-25 mins",
+                  "lastMileTravelString": "0.9 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:55:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                      "description": "Delivery!"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Delivery!",
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "20% OFF",
+                  "subHeader": "UPTO ₹50"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/dominos-pizza-gandhi-road-central-avenue-kolkata-809673",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "491063",
+                "name": "Blue Tokai Coffee Roasters",
+                "cloudinaryImageId": "1a0521375f07155eda2f1ed263206831",
+                "locality": "Near India Hobby Center",
+                "areaName": "Park Street",
+                "costForTwo": "₹600 for two",
+                "cuisines": ["Cafe", "Coffee", "Beverages"],
+                "avgRating": 4.6,
+                "parentId": "2682",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "500+",
+                "sla": {
+                  "deliveryTime": 47,
+                  "lastMileTravel": 3,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "45-50 mins",
+                  "lastMileTravelString": "3.0 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "imageBadges": [
+                    {
+                      "imageId": "newg.png",
+                      "description": "Gourmet"
+                    }
+                  ],
+                  "textExtendedBadges": [
+                    {
+                      "iconId": "guiltfree/GF_Logo_android_3x",
+                      "shortDescription": "options available",
+                      "fontColor": "#7E808C"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "Gourmet",
+                            "imageId": "newg.png"
+                          }
+                        }
+                      ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "",
+                            "fontColor": "#7E808C",
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "₹75 OFF",
+                  "subHeader": "ABOVE ₹249",
+                  "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/blue-tokai-coffee-roasters-near-india-hobby-center-park-street-kolkata-491063",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "831408",
+                "name": "Pastas By Pizza Hut",
+                "cloudinaryImageId": "80ca62f0de020f8cbe39fd034d3325d5",
+                "locality": "New Market",
+                "areaName": "Esplanade Kolkata",
+                "costForTwo": "₹400 for two",
+                "cuisines": ["Pastas"],
+                "avgRating": 3.7,
+                "parentId": "306806",
+                "avgRatingString": "3.7",
+                "totalRatingsString": "20+",
+                "sla": {
+                  "deliveryTime": 43,
+                  "lastMileTravel": 2.6,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "2.6 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 04:00:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "₹100 OFF",
+                  "subHeader": "ABOVE ₹249",
+                  "discountTag": "FLAT DEAL"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "isNewlyOnboarded": true,
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/pastas-by-pizza-hut-new-market-esplanade-kolkata-kolkata-831408",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "25622",
+                "name": "Barista Coffee",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/8/e4f7376d-49b3-47b7-96b6-ffdee76c08ac_25622.jpg",
+                "locality": "New Market",
+                "areaName": "New Market",
+                "costForTwo": "₹350 for two",
+                "cuisines": ["Beverages", "Snacks", "Desserts"],
+                "avgRating": 4.6,
+                "parentId": "416281",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "500+",
+                "sla": {
+                  "deliveryTime": 44,
+                  "lastMileTravel": 2.3,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "2.3 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:30:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/barista-coffee-new-market-kolkata-25622",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "639521",
+                "name": "Dum Safar Biryani",
+                "cloudinaryImageId": "1154cffac2453eb0bf7fdda7e5ea1659",
+                "locality": "Nalin Sengupta Sarani",
+                "areaName": "NEW MARKET",
+                "costForTwo": "₹500 for two",
+                "cuisines": [
+                  "Biryani",
+                  "Kebabs",
+                  "Tandoor",
+                  "Indian",
+                  "Desserts"
+                ],
+                "avgRating": 4,
+                "parentId": "351013",
+                "avgRatingString": "4.0",
+                "totalRatingsString": "50+",
+                "sla": {
+                  "deliveryTime": 44,
+                  "lastMileTravel": 2.5,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "2.5 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 00:30:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/dum-safar-biryani-nalin-sengupta-sarani-new-market-kolkata-639521",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "128468",
+                "name": "Dariole",
+                "cloudinaryImageId": "muxbcwaegpr6mdogtach",
+                "locality": "Shakespeare Sarani",
+                "areaName": "Shakespeare Sarani",
+                "costForTwo": "₹150 for two",
+                "cuisines": ["Bakery", "Desserts"],
+                "avgRating": 4.7,
+                "parentId": "6960",
+                "avgRatingString": "4.7",
+                "totalRatingsString": "1K+",
+                "sla": {
+                  "deliveryTime": 44,
+                  "lastMileTravel": 4.7,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "40-45 mins",
+                  "lastMileTravelString": "4.7 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 23:00:00",
+                  "opened": true
+                },
+                "badges": {},
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "20% OFF",
+                  "subHeader": "UPTO ₹50"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/dariole-shakespeare-sarani-kolkata-128468",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "377082",
+                "name": "Keventers Ice Cream",
+                "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/6/eded9f86-f4ec-46cd-a7ea-49f078522101_377082.JPG",
+                "locality": "Avani Mall",
+                "areaName": "Avani Mall",
+                "costForTwo": "₹200 for two",
+                "cuisines": ["Ice Cream", "Desserts"],
+                "avgRating": 4.4,
+                "veg": true,
+                "parentId": "272044",
+                "avgRatingString": "4.4",
+                "totalRatingsString": "100+",
+                "sla": {
+                  "deliveryTime": 60,
+                  "lastMileTravel": 6.9,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "55-60 mins",
+                  "lastMileTravelString": "6.9 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-15 22:30:00",
+                  "opened": true
+                },
+                "badges": {
+                  "textExtendedBadges": [
+                    {
+                      "iconId": "guiltfree/GF_Logo_android_3x",
+                      "shortDescription": "options available",
+                      "fontColor": "#7E808C"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "",
+                            "fontColor": "#7E808C",
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "options available"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/keventers-ice-cream-avani-mall-kolkata-377082",
+                "type": "WEBLINK"
+              }
+            },
+            {
+              "info": {
+                "id": "580620",
+                "name": "GetAWay-Ice Creams & Desserts",
+                "cloudinaryImageId": "8194c8fed09497bce3714d2586653545",
+                "locality": "South Kolkata",
+                "areaName": "Dhakuria",
+                "costForTwo": "₹200 for two",
+                "cuisines": ["Ice Cream", "Desserts", "Healthy Food", "Sweets"],
+                "avgRating": 4.6,
+                "veg": true,
+                "parentId": "354819",
+                "avgRatingString": "4.6",
+                "totalRatingsString": "100+",
+                "sla": {
+                  "deliveryTime": 58,
+                  "lastMileTravel": 8.6,
+                  "serviceability": "SERVICEABLE",
+                  "slaString": "55-60 mins",
+                  "lastMileTravelString": "8.6 km",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "nextCloseTime": "2024-06-16 00:00:00",
+                  "opened": true
+                },
+                "badges": {
+                  "textExtendedBadges": [
+                    {
+                      "iconId": "guiltfree/GF_Logo_android_3x",
+                      "shortDescription": "brand",
+                      "fontColor": "#7E808C"
+                    }
+                  ]
+                },
+                "isOpen": true,
+                "type": "F",
+                "badgesV2": {
+                  "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {
+                      "badgeObject": [
+                        {
+                          "attributes": {
+                            "description": "",
+                            "fontColor": "#7E808C",
+                            "iconId": "guiltfree/GF_Logo_android_3x",
+                            "shortDescription": "brand"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                "aggregatedDiscountInfoV3": {
+                  "header": "ITEMS",
+                  "subHeader": "AT ₹199"
+                },
+                "differentiatedUi": {
+                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                  "differentiatedUiMediaDetails": {
+                    "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    "lottie": {},
+                    "video": {}
+                  }
+                },
+                "reviewsSummary": {},
+                "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                "restaurantOfferPresentationInfo": {}
+              },
+              "analytics": {},
+              "cta": {
+                "link": "https://www.swiggy.com/restaurants/getaway-ice-creams-and-desserts-south-dhakuria-kolkata-580620",
+                "type": "WEBLINK"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
